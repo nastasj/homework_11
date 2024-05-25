@@ -1,0 +1,8 @@
+{
+  "id": 1,
+  "title": "Anna Karenina",
+  "author": "Lev Tolstoy",
+  "year": 1873,
+  "available": true,
+  "tags": ["novel", "classic", "realism"]
+}
